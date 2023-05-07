@@ -1,2 +1,2 @@
 # FormaBase_C
-Basic Exercices in C
+Some basic exercises in C 
